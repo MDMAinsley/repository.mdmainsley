@@ -1,3 +1,6 @@
+v1.0.1
+-Added correct index.html and zips to root so Kodi file manager works
+
 v1.0.0
 -A repository to store all of my personal addons
 -Multiple easy build tools
