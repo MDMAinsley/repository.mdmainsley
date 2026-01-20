@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="repository.mdmainsley"
        name="MDMAinsley Repo"
-       version="1.0.9"
+       version="1.0.10"
        provider-name="MDMAinsley">
   <extension point="xbmc.addon.repository"
              name="MDMAinsley Repo">
     <dir>
-      <info>https://repo.mdmainsley.co.uk/addons.xml</info>
-      <checksum>https://repo.mdmainsley.co.uk/addons.xml.md5</checksum>
-	  <datadir zip="true">https://repo.mdmainsley.co.uk/</datadir>
+      <info>http://repo.mdmainsley.co.uk/addons.xml</info>
+      <checksum>http://repo.mdmainsley.co.uk/addons.xml.md5</checksum>
+	  <datadir zip="true">http://repo.mdmainsley.co.uk/</datadir>
     </dir>
   </extension>
 
