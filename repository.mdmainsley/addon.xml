@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="repository.mdmainsley"
        name="MDMAinsley Repo"
-       version="1.0.5"
+       version="1.0.6"
        provider-name="MDMAinsley">
   <extension point="xbmc.addon.repository"
              name="MDMAinsley Repo">
     <dir>
-      <info>https://mdmainsley.github.io/repository.mdmainsley/addons.xml.gz</info>
-      <checksum>https://mdmainsley.github.io/repository.mdmainsley/addons.xml.gz.md5</checksum>
+      <info>https://mdmainsley.github.io/repository.mdmainsley/addons.xml</info>
+      <checksum>https://mdmainsley.github.io/repository.mdmainsley/addons.xml.md5</checksum>
       <datadir zip="true">https://mdmainsley.github.io/repository.mdmainsley/</datadir>
     </dir>
   </extension>
