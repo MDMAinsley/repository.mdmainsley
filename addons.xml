@@ -1,16 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<addons><addon id="repository.mdmainsley" name="MDMAinsley Repo" version="1.0.7" provider-name="MDMAinsley">
+<addons><addon id="repository.mdmainsley" name="MDMAinsley Repo" version="1.1.10" provider-name="MDMAinsley">
   <extension point="xbmc.addon.repository" name="MDMAinsley Repo">
     <dir>
-      <info>
-		https://raw.githubusercontent.com/MDMAinsley/repository.mdmainsley/gh-pages/addons.xml
-	  </info>
-      <checksum>
-		https://raw.githubusercontent.com/MDMAinsley/repository.mdmainsley/gh-pages/addons.xml.md5
-	  </checksum>
-	  <datadir zip="true">
-		https://raw.githubusercontent.com/MDMAinsley/repository.mdmainsley/gh-pages/
-	  </datadir>
+      <info>http://repo.mdmainsley.co.uk/addons.xml</info>
+      <checksum>http://repo.mdmainsley.co.uk/addons.xml.md5</checksum>
+	  <datadir zip="true">https://repo.mdmainsley.co.uk/</datadir>
     </dir>
   </extension>
 
@@ -30,7 +24,7 @@
     </assets>
   </extension>
   
-</addon><addon id="script.kodi.profiler" name="Profiler" version="1.0.5" provider-name="MDMAinsley">
+</addon><addon id="script.kodi.profiler" name="Profiler" version="1.1.10" provider-name="MDMAinsley">
 	   
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
